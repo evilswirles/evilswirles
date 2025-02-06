@@ -3,7 +3,6 @@
  <img src="https://skillicons.dev/icons?i=robloxstudio,lua,css,html,vscode,docker" />
  
 </h1>
-<img align="right" style="padding-bottom:12px;" src="https://lanyard-profile-readme.vercel.app/api/956701047722741780"></img>
 
 (TODO)
 
