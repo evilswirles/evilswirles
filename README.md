@@ -4,7 +4,8 @@
  
 </h1>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=evilswirles&theme=dark" alt="darkhappy" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=evilswirles&theme=dark" alt="evilswirles" /></p>
+
 TODO
 
 <!-- (code taken from [callum](https://github.com/callumisdumb)) -->
